@@ -1,0 +1,9 @@
+.menuBar {
+    border: 2px solid #1C6EA4;
+    display: grid;
+    grid-template-columns: auto auto 1fr ;
+}
+
+.menuItem {
+    border: 2px solid red;
+}
